@@ -4,7 +4,7 @@
 // rnjss8m@sm.ac.kr
 // ----------------------------------------------------------------
 // PROJECT NAME  : arduino_biped_robot_v2
-// FILE NAME     : Final_biped_V2.ino
+// FILE NAME     : Final_biped_v2.ino
 // ABOUT         : 
 // CREATION DATE : 2022.06.18
 // ================================================================
