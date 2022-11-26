@@ -1,1 +1,1 @@
-# arduino_biped_robot_V2
+# arduino_biped_robot_v2
