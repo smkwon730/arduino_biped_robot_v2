@@ -1,6 +1,6 @@
 // ================================================================
 // Sookmyung Women's University Electronic Engineering 21
-// Soomin Kwon 2115185
+// Soomin Kwon
 // rnjss8m@sm.ac.kr
 // ----------------------------------------------------------------
 // PROJECT NAME  : arduino_biped_robot_v2
